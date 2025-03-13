@@ -1,0 +1,10 @@
+D:\KPL Project\Praktikum_KPL\hasil praktikum\tp03\tp03\bin\Debug\tp03.exe.config
+D:\KPL Project\Praktikum_KPL\hasil praktikum\tp03\tp03\bin\Debug\tp03.exe
+D:\KPL Project\Praktikum_KPL\hasil praktikum\tp03\tp03\bin\Debug\tp03.pdb
+D:\KPL Project\Praktikum_KPL\hasil praktikum\tp03\tp03\obj\Debug\tp03.csproj.AssemblyReference.cache
+D:\KPL Project\Praktikum_KPL\hasil praktikum\tp03\tp03\obj\Debug\tp03.Form1.resources
+D:\KPL Project\Praktikum_KPL\hasil praktikum\tp03\tp03\obj\Debug\tp03.Properties.Resources.resources
+D:\KPL Project\Praktikum_KPL\hasil praktikum\tp03\tp03\obj\Debug\tp03.csproj.GenerateResource.cache
+D:\KPL Project\Praktikum_KPL\hasil praktikum\tp03\tp03\obj\Debug\tp03.csproj.CoreCompileInputs.cache
+D:\KPL Project\Praktikum_KPL\hasil praktikum\tp03\tp03\obj\Debug\tp03.exe
+D:\KPL Project\Praktikum_KPL\hasil praktikum\tp03\tp03\obj\Debug\tp03.pdb

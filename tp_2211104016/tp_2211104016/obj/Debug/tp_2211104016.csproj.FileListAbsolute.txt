@@ -1,0 +1,10 @@
+C:\Users\Idham\source\repos\tp_2211104016\tp_2211104016\bin\Debug\tp_2211104016.exe.config
+C:\Users\Idham\source\repos\tp_2211104016\tp_2211104016\bin\Debug\tp_2211104016.exe
+C:\Users\Idham\source\repos\tp_2211104016\tp_2211104016\bin\Debug\tp_2211104016.pdb
+C:\Users\Idham\source\repos\tp_2211104016\tp_2211104016\obj\Debug\tp_2211104016.csproj.AssemblyReference.cache
+C:\Users\Idham\source\repos\tp_2211104016\tp_2211104016\obj\Debug\tp_2211104016.Form1.resources
+C:\Users\Idham\source\repos\tp_2211104016\tp_2211104016\obj\Debug\tp_2211104016.Properties.Resources.resources
+C:\Users\Idham\source\repos\tp_2211104016\tp_2211104016\obj\Debug\tp_2211104016.csproj.GenerateResource.cache
+C:\Users\Idham\source\repos\tp_2211104016\tp_2211104016\obj\Debug\tp_2211104016.csproj.CoreCompileInputs.cache
+C:\Users\Idham\source\repos\tp_2211104016\tp_2211104016\obj\Debug\tp_2211104016.exe
+C:\Users\Idham\source\repos\tp_2211104016\tp_2211104016\obj\Debug\tp_2211104016.pdb
