@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KPL Project\\Pertemuan3\\TpModul5_2211104016\\",
+  "WorkspaceRootPath": "D:\\KPL Project\\Praktikum_KPL\\Pertemuan3\\TpModul5_2211104016\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{776D4729-1E81-4C02-87F2-1675B884FB5F}|TpModul5_2211104016\\TpModul5_2211104016.csproj|d:\\kpl project\\pertemuan3\\tpmodul5_2211104016\\tpmodul5_2211104016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{776D4729-1E81-4C02-87F2-1675B884FB5F}|TpModul5_2211104016\\TpModul5_2211104016.csproj|d:\\kpl project\\praktikum_kpl\\pertemuan3\\tpmodul5_2211104016\\tpmodul5_2211104016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{776D4729-1E81-4C02-87F2-1675B884FB5F}|TpModul5_2211104016\\TpModul5_2211104016.csproj|solutionrelative:tpmodul5_2211104016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\KPL Project\\Pertemuan3\\TpModul5_2211104016\\TpModul5_2211104016\\Program.cs",
+              "DocumentMoniker": "D:\\KPL Project\\Praktikum_KPL\\Pertemuan3\\TpModul5_2211104016\\TpModul5_2211104016\\Program.cs",
               "RelativeDocumentMoniker": "TpModul5_2211104016\\Program.cs",
-              "ToolTip": "D:\\KPL Project\\Pertemuan3\\TpModul5_2211104016\\TpModul5_2211104016\\Program.cs",
+              "ToolTip": "D:\\KPL Project\\Praktikum_KPL\\Pertemuan3\\TpModul5_2211104016\\TpModul5_2211104016\\Program.cs",
               "RelativeToolTip": "TpModul5_2211104016\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwEcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T09:03:41.993Z",
               "EditorCaption": ""
