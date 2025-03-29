@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikum_KPL\\Praktikum_KPL\\TP_05_Modul08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEACD612-1D74-474B-9676-4EFDA1C0A181}|TP_05_Modul08\\TP_05_Modul08.csproj|d:\\praktikum_kpl\\praktikum_kpl\\tp_05_modul08\\tp_05_modul08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEACD612-1D74-474B-9676-4EFDA1C0A181}|TP_05_Modul08\\TP_05_Modul08.csproj|solutionrelative:tp_05_modul08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEACD612-1D74-474B-9676-4EFDA1C0A181}|TP_05_Modul08\\TP_05_Modul08.csproj|D:\\Praktikum_KPL\\Praktikum_KPL\\TP_05_Modul08\\tp_05_modul08\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEACD612-1D74-474B-9676-4EFDA1C0A181}|TP_05_Modul08\\TP_05_Modul08.csproj|solutionrelative:tp_05_modul08\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Idham\\AppData\\Local\\Temp\\4eb42645-056d-478e-a2d4-a2bcf31d6139_tpmodul8_2211104105.zip.139\\tpmodul8_2211104105\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEACD612-1D74-474B-9676-4EFDA1C0A181}|TP_05_Modul08\\TP_05_Modul08.csproj|D:\\Praktikum_KPL\\Praktikum_KPL\\TP_05_Modul08\\tp_05_modul08\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEACD612-1D74-474B-9676-4EFDA1C0A181}|TP_05_Modul08\\TP_05_Modul08.csproj|solutionrelative:tp_05_modul08\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "C:\\Users\\Idham\\AppData\\Local\\Temp\\4eb42645-056d-478e-a2d4-a2bcf31d6139_tpmodul8_2211104105.zip.139\\tpmodul8_2211104105\\covid_config.json",
+              "ToolTip": "C:\\Users\\Idham\\AppData\\Local\\Temp\\4eb42645-056d-478e-a2d4-a2bcf31d6139_tpmodul8_2211104105.zip.139\\tpmodul8_2211104105\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T17:17:27.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\TP_05_Modul08\\TP_05_Modul08\\covid_config.json",
+              "RelativeDocumentMoniker": "TP_05_Modul08\\covid_config.json",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\TP_05_Modul08\\TP_05_Modul08\\covid_config.json",
+              "RelativeToolTip": "TP_05_Modul08\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T17:13:02.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\TP_05_Modul08\\TP_05_Modul08\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "TP_05_Modul08\\CovidConfig.cs",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\TP_05_Modul08\\TP_05_Modul08\\CovidConfig.cs",
+              "RelativeToolTip": "TP_05_Modul08\\CovidConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T17:11:08.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\TP_05_Modul08\\TP_05_Modul08\\Program.cs",
+              "RelativeDocumentMoniker": "TP_05_Modul08\\Program.cs",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\TP_05_Modul08\\TP_05_Modul08\\Program.cs",
+              "RelativeToolTip": "TP_05_Modul08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T17:07:13.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿{
+  "firstName": "Muhammad",
+  "lastName": "Idham Cholid",
+  "gender": "male",
+  "age": 25,
+  "address": {
+    "streetAddress": "Moscow",
+    "city": "pestbrug",
+    "state": "Uni Soviet"
+  },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CRI2XX",
+      "name": "Sistem Operasi"
+    }
+  ]
+}

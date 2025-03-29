@@ -1,0 +1,11 @@
+D:\Praktikum_KPL\Praktikum_KPL\TP_05_Modul08\TP_05_Modul08\bin\Debug\covid_config.json
+D:\Praktikum_KPL\Praktikum_KPL\TP_05_Modul08\TP_05_Modul08\bin\Debug\TP_05_Modul08.exe.config
+D:\Praktikum_KPL\Praktikum_KPL\TP_05_Modul08\TP_05_Modul08\bin\Debug\TP_05_Modul08.exe
+D:\Praktikum_KPL\Praktikum_KPL\TP_05_Modul08\TP_05_Modul08\bin\Debug\TP_05_Modul08.pdb
+D:\Praktikum_KPL\Praktikum_KPL\TP_05_Modul08\TP_05_Modul08\bin\Debug\Newtonsoft.Json.dll
+D:\Praktikum_KPL\Praktikum_KPL\TP_05_Modul08\TP_05_Modul08\bin\Debug\Newtonsoft.Json.xml
+D:\Praktikum_KPL\Praktikum_KPL\TP_05_Modul08\TP_05_Modul08\obj\Debug\TP_05_Modul08.csproj.AssemblyReference.cache
+D:\Praktikum_KPL\Praktikum_KPL\TP_05_Modul08\TP_05_Modul08\obj\Debug\TP_05_Modul08.csproj.CoreCompileInputs.cache
+D:\Praktikum_KPL\Praktikum_KPL\TP_05_Modul08\TP_05_Modul08\obj\Debug\TP_05_Mo.8180BB19.Up2Date
+D:\Praktikum_KPL\Praktikum_KPL\TP_05_Modul08\TP_05_Modul08\obj\Debug\TP_05_Modul08.exe
+D:\Praktikum_KPL\Praktikum_KPL\TP_05_Modul08\TP_05_Modul08\obj\Debug\TP_05_Modul08.pdb
