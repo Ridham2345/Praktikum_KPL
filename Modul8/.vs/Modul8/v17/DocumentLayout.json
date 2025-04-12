@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul8\\modul8\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|solutionrelative:modul8\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul8\\modul8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|solutionrelative:modul8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul8\\modul8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|solutionrelative:modul8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul8\\modul8\\modul8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|solutionrelative:modul8\\modul8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul8\\modul8\\resources\\sharedresource.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|solutionrelative:modul8\\resources\\sharedresource.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul8\\modul8\\resources\\sharedresource.fr-fr.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|solutionrelative:modul8\\resources\\sharedresource.fr-fr.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul8\\modul8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|solutionrelative:modul8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul8\\modul8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|solutionrelative:modul8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul8\\modul8\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4825FA8-643E-4382-A8D3-33426F0DD297}|Modul8\\Modul8.csproj|solutionrelative:modul8\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Modul8\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Modul8\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T07:51:23.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Modul8\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Modul8\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T07:49:35.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Modul8\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Modul8\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T07:45:01.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Modul8\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Modul8\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:35:57.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SharedResource.fr-FR.resx",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Resources\\SharedResource.fr-FR.resx",
+              "RelativeDocumentMoniker": "Modul8\\Resources\\SharedResource.fr-FR.resx",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Resources\\SharedResource.fr-FR.resx",
+              "RelativeToolTip": "Modul8\\Resources\\SharedResource.fr-FR.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-10T07:22:02.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SharedResource.en-US.resx",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Resources\\SharedResource.en-US.resx",
+              "RelativeDocumentMoniker": "Modul8\\Resources\\SharedResource.en-US.resx",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Resources\\SharedResource.en-US.resx",
+              "RelativeToolTip": "Modul8\\Resources\\SharedResource.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-10T07:20:49.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Modul8",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Modul8.csproj",
+              "RelativeDocumentMoniker": "Modul8\\Modul8.csproj",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Modul8.csproj",
+              "RelativeToolTip": "Modul8\\Modul8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T07:16:19.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Program.cs",
+              "RelativeDocumentMoniker": "Modul8\\Program.cs",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Program.cs",
+              "RelativeToolTip": "Modul8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:11:25.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LanguageService.cs",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Services\\LanguageService.cs",
+              "RelativeDocumentMoniker": "Modul8\\Services\\LanguageService.cs",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8\\Modul8\\Services\\LanguageService.cs",
+              "RelativeToolTip": "Modul8\\Services\\LanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:05:48.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
