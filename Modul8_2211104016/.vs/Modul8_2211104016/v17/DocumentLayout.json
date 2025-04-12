@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8_2211104016\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC4AC37-E854-4F60-9043-2C63710A57E4}|Modul8_2211104016\\Modul8_2211104016.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul8_2211104016\\modul8_2211104016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC4AC37-E854-4F60-9043-2C63710A57E4}|Modul8_2211104016\\Modul8_2211104016.csproj|solutionrelative:modul8_2211104016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC4AC37-E854-4F60-9043-2C63710A57E4}|Modul8_2211104016\\Modul8_2211104016.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul8_2211104016\\modul8_2211104016\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC4AC37-E854-4F60-9043-2C63710A57E4}|Modul8_2211104016\\Modul8_2211104016.csproj|solutionrelative:modul8_2211104016\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC4AC37-E854-4F60-9043-2C63710A57E4}|Modul8_2211104016\\Modul8_2211104016.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul8_2211104016\\modul8_2211104016\\bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EC4AC37-E854-4F60-9043-2C63710A57E4}|Modul8_2211104016\\Modul8_2211104016.csproj|solutionrelative:modul8_2211104016\\bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC4AC37-E854-4F60-9043-2C63710A57E4}|Modul8_2211104016\\Modul8_2211104016.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul8_2211104016\\modul8_2211104016\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6EC4AC37-E854-4F60-9043-2C63710A57E4}|Modul8_2211104016\\Modul8_2211104016.csproj|solutionrelative:modul8_2211104016\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankTransferConfig.cs",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8_2211104016\\Modul8_2211104016\\BankTransferConfig.cs",
+              "RelativeDocumentMoniker": "Modul8_2211104016\\BankTransferConfig.cs",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8_2211104016\\Modul8_2211104016\\BankTransferConfig.cs",
+              "RelativeToolTip": "Modul8_2211104016\\BankTransferConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:15:32.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bank_transfer_config.json",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8_2211104016\\Modul8_2211104016\\bank_transfer_config.json",
+              "RelativeDocumentMoniker": "Modul8_2211104016\\bank_transfer_config.json",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8_2211104016\\Modul8_2211104016\\bank_transfer_config.json",
+              "RelativeToolTip": "Modul8_2211104016\\bank_transfer_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T18:13:05.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8_2211104016\\Modul8_2211104016\\App.config",
+              "RelativeDocumentMoniker": "Modul8_2211104016\\App.config",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8_2211104016\\Modul8_2211104016\\App.config",
+              "RelativeToolTip": "Modul8_2211104016\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-12T17:35:57.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8_2211104016\\Modul8_2211104016\\Program.cs",
+              "RelativeDocumentMoniker": "Modul8_2211104016\\Program.cs",
+              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul8_2211104016\\Modul8_2211104016\\Program.cs",
+              "RelativeToolTip": "Modul8_2211104016\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:29:35.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
