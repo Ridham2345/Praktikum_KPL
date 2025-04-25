@@ -12,6 +12,7 @@ namespace Modul09_221104016.Controllers
         {
             new Movie
             {
+
                 Title = "The Shawshank Redemption",
                 Director = "Frank Darabont",
                 Stars = new List<string> { "Tim Robbins", "Morgan Freeman" },

@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul09_221104016\\",
+  "WorkspaceRootPath": "D:\\Khusus Praktikum\\Modul09_221104016\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BA40ECA-2C63-48C6-8E36-5D49902E7676}|Modul09_221104016\\Modul09_221104016.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul09_221104016\\modul09_221104016\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BA40ECA-2C63-48C6-8E36-5D49902E7676}|Modul09_221104016\\Modul09_221104016.csproj|solutionrelative:modul09_221104016\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BA40ECA-2C63-48C6-8E36-5D49902E7676}|Modul09_221104016\\Modul09_221104016.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul09_221104016\\modul09_221104016\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BA40ECA-2C63-48C6-8E36-5D49902E7676}|Modul09_221104016\\Modul09_221104016.csproj|d:\\khusus praktikum\\modul09_221104016\\modul09_221104016\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BA40ECA-2C63-48C6-8E36-5D49902E7676}|Modul09_221104016\\Modul09_221104016.csproj|solutionrelative:modul09_221104016\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BA40ECA-2C63-48C6-8E36-5D49902E7676}|Modul09_221104016\\Modul09_221104016.csproj|d:\\praktikum_kpl\\praktikum_kpl\\modul09_221104016\\modul09_221104016\\modul09_221104016.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{5BA40ECA-2C63-48C6-8E36-5D49902E7676}|Modul09_221104016\\Modul09_221104016.csproj|d:\\khusus praktikum\\modul09_221104016\\modul09_221104016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA40ECA-2C63-48C6-8E36-5D49902E7676}|Modul09_221104016\\Modul09_221104016.csproj|solutionrelative:modul09_221104016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA40ECA-2C63-48C6-8E36-5D49902E7676}|Modul09_221104016\\Modul09_221104016.csproj|d:\\khusus praktikum\\modul09_221104016\\modul09_221104016\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA40ECA-2C63-48C6-8E36-5D49902E7676}|Modul09_221104016\\Modul09_221104016.csproj|solutionrelative:modul09_221104016\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA40ECA-2C63-48C6-8E36-5D49902E7676}|Modul09_221104016\\Modul09_221104016.csproj|d:\\khusus praktikum\\modul09_221104016\\modul09_221104016\\modul09_221104016.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5BA40ECA-2C63-48C6-8E36-5D49902E7676}|Modul09_221104016\\Modul09_221104016.csproj|solutionrelative:modul09_221104016\\modul09_221104016.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -27,41 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Khusus Praktikum\\Modul09_221104016\\Modul09_221104016\\Program.cs",
+              "RelativeDocumentMoniker": "Modul09_221104016\\Program.cs",
+              "ToolTip": "D:\\Khusus Praktikum\\Modul09_221104016\\Modul09_221104016\\Program.cs",
+              "RelativeToolTip": "Modul09_221104016\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:57:34.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MoviesController.cs",
-              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul09_221104016\\Modul09_221104016\\Controllers\\MoviesController.cs",
+              "DocumentMoniker": "D:\\Khusus Praktikum\\Modul09_221104016\\Modul09_221104016\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "Modul09_221104016\\Controllers\\MoviesController.cs",
-              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul09_221104016\\Modul09_221104016\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Khusus Praktikum\\Modul09_221104016\\Modul09_221104016\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "Modul09_221104016\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwAEAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T11:48:09.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul09_221104016\\Modul09_221104016\\Models\\Movie.cs",
+              "DocumentMoniker": "D:\\Khusus Praktikum\\Modul09_221104016\\Modul09_221104016\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "Modul09_221104016\\Models\\Movie.cs",
-              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul09_221104016\\Modul09_221104016\\Models\\Movie.cs",
+              "ToolTip": "D:\\Khusus Praktikum\\Modul09_221104016\\Modul09_221104016\\Models\\Movie.cs",
               "RelativeToolTip": "Modul09_221104016\\Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T11:47:26.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Modul09_221104016",
-              "DocumentMoniker": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul09_221104016\\Modul09_221104016\\Modul09_221104016.csproj",
+              "DocumentIndex": 3,
+              "Title": "Modul09_221104016.csproj",
+              "DocumentMoniker": "D:\\Khusus Praktikum\\Modul09_221104016\\Modul09_221104016\\Modul09_221104016.csproj",
               "RelativeDocumentMoniker": "Modul09_221104016\\Modul09_221104016.csproj",
-              "ToolTip": "D:\\Praktikum_KPL\\Praktikum_KPL\\Modul09_221104016\\Modul09_221104016\\Modul09_221104016.csproj",
+              "ToolTip": "D:\\Khusus Praktikum\\Modul09_221104016\\Modul09_221104016\\Modul09_221104016.csproj",
               "RelativeToolTip": "Modul09_221104016\\Modul09_221104016.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-25T11:46:27.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T11:46:27.622Z"
             }
           ]
         }
